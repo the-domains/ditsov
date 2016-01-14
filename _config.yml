@@ -1,0 +1,28 @@
+name: ditsov
+favicon: null
+layout_spectrum: 0.7590228610206395
+typography_spectrum: 0.7304298935923725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.23063449771143496
+  lightness: 0.3473796802572906
+  saturation: 0.489306757459417
+  rhythmicContrast: 0.14133239607326686
+purpose: []
